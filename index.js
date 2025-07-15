@@ -58,3 +58,14 @@
 //     fact*=i
 // }  
 // console.log(fact)
+
+//6 print multiplicaion of table
+// const no=2
+// let mul=1
+// for(i=1;i<=10;i++)
+// {
+//     mul=no*i
+//     console.log(no,"x",i,"=",mul)
+// }
+
+//7 reverse number
