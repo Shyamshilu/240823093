@@ -111,3 +111,16 @@
 //     return String(n).length;
 // }
 // console.log(Count(1285));
+
+//11 Sum of Digits 
+// function sumofdigit(n)
+// {
+//     let sum=0
+//     const numStr=String(n);
+//     for(let i=0;i<numStr.length;i++)
+//     {
+//         sum += parseInt(numStr[i]);
+//     }
+//     return sum;
+// }
+// console.log(sumofdigit(1234))
