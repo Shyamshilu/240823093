@@ -69,3 +69,45 @@
 // }
 
 //7 reverse number
+  function reverseNumber(num)
+//   {
+//     return parseInt(String(num).split('').reverse().join(''));
+//   }
+//     console.log(`Input: 1234, Output: ${reverseNumber(1234)}`);     
+
+//8 palindrom
+  
+// function isPalindrome(num) {
+//     if (num < 0) {
+//       return false;
+//     }
+//     const numStr = String(num);
+//     const reversedStr = numStr.split('').reverse().join('');  
+//       return numStr === reversedStr;
+//   }  
+//   const num1 = 121;
+//   console.log(`Input: ${num1}, Output: ${isPalindrome(num1) ? 'Palindrome' : 'Not Palindrome'}`); 
+  
+//   const num3 = 12345;
+//   console.log(`Input: ${num3}, Output: ${isPalindrome(num3) ? 'Palindrome' : 'Not Palindrome'}`); 
+
+
+//9 check prime number
+
+// function isprime(n)
+// {
+//     if(n<=1) return "not prime";
+//     for(let i=2;i<=Math.sqrt(n);i++)
+//     {
+//         if(n % i == 0) return " not prime"
+//     }
+//     return "prime";
+// }
+// console.log(isprime(13))
+
+//10 Count Digits in a Number
+// function Count(n)
+// {
+//     return String(n).length;
+// }
+// console.log(Count(1285));
